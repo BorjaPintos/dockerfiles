@@ -47,7 +47,7 @@ A collection of delicious docker recipes.
 
 - [x] kafka-arm
 - [x] kafka-manager
-- [x] presto-server
+- [x] presto
 - [x] superset-arm
 - [x] zookeeper-arm
 
@@ -203,6 +203,7 @@ A collection of delicious docker recipes.
 - [x] fteproxy-arm :+1:
 - [x] hans
 - [x] haproxy-arm
+- [x] i2pd :ru:
 - [x] kcptun :cn:
 - [x] mtproxy
 - [x] mysql-proxy
@@ -239,6 +240,7 @@ A collection of delicious docker recipes.
 - [x] strongswan :+1:
 - [x] tinc :+1:
 - [x] tinc-arm :+1:
+- [x] wiregurad :beetle:
 - [x] xl2tpd
 
 ## DNS
@@ -256,6 +258,7 @@ A collection of delicious docker recipes.
 - [x] tutum/builder
 - [x] browserless/chrome
 - [x] certbot
+- [x] codercom/code-server
 - [x] confluentinc/cp-kafka-mqtt
 - [x] confluentinc/cp-kafka-rest
 - [x] streamsets/datacollector
@@ -265,6 +268,7 @@ A collection of delicious docker recipes.
 - [x] drupal
 - [x] elastalert
 - [x] elk
+- [x] flogo/flogo-docker
 - [x] mher/flower
 - [x] ghost
 - [x] gitlab/gitlab-ce
@@ -279,6 +283,7 @@ A collection of delicious docker recipes.
 - [x] wurstmeister/kafka
 - [x] netdata/netdata
 - [x] nextcloud
+- [x] sonatype/nexus3
 - [x] jazzdd/phpvirtualbox
 - [x] jenkins
 - [x] jupyter/notebook
@@ -288,6 +293,7 @@ A collection of delicious docker recipes.
 - [x] minio/minio
 - [x] mongo
 - [x] neo4j
+- [x] erichough/nfs-server
 - [x] odoo
 - [x] osixia/openldap
 - [x] campbellsoftwaresolutions/osticket
@@ -300,12 +306,13 @@ A collection of delicious docker recipes.
 - [x] registry
 - [x] rocket.chat
 - [x] rundeck/rundeck
-- [x] scrapinghub/splash
+- [x] wonderfall/searx
 - [ ] selenium
     - [ ] hub
     - [ ] node-firefox
     - [x] standalone-firefox
 - [x] sentry
+- [x] scrapinghub/splash
 - [x] amancevice/superset
 - [x] v2ray/official :cn:
 - [x] centurylink/watchtower
